@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [Text-to-Image API in Node.js: A Backend Endpoint for Marketing Images](posts/text-to-image-api-in-node-js-a-backend-endpoint-for-marketing-images.md)
 - [One API Key for Moderation: A Unified Node.js Safety Classifier with Structured Output](posts/one-api-key-for-moderation-a-unified-node-js-safety-classifier-with-stru.md)
 - [Picking an in-app chatbot API for Node.js: pricing, context window, JSON mode](posts/picking-an-in-app-chatbot-api-for-node-js-pricing-context-window-json-mo.md)
 - [Labeling unsafe text without a moderation endpoint: JSON schema tags in Node.js](posts/labeling-unsafe-text-without-a-moderation-endpoint-json-schema-tags-in-n.md)
