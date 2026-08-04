@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [How to compare text-to-image API cost per image for a startup MVP in Node.js](posts/how-to-compare-text-to-image-api-cost-per-image-for-a-startup-mvp-in-nod.md)
 - [Node.js RAG PDF Upload: Embeddings, pgvector, Chunking, and Citations](posts/node-js-rag-pdf-upload-embeddings-pgvector-chunking-and-citations.md)
 - [Speech-to-text in Node.js when your chat model API has no audio transcription](posts/speech-to-text-in-node-js-when-your-chat-model-api-has-no-audio-transcri.md)
 - [Text-to-Image API in Node.js: A Backend Endpoint for Marketing Images](posts/text-to-image-api-in-node-js-a-backend-endpoint-for-marketing-images.md)
