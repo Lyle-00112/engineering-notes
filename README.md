@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [The Best Simple US/EU Node.js Architecture for Unified LLM API Access](posts/the-best-simple-us-eu-node-js-architecture-for-unified-llm-api-access.md)
 - [What a text and image safety check really costs: JSON schema moderation in Node.js](posts/what-a-text-and-image-safety-check-really-costs-json-schema-moderation-i.md)
 - [How to compare text-to-image API cost per image for a startup MVP in Node.js](posts/how-to-compare-text-to-image-api-cost-per-image-for-a-startup-mvp-in-nod.md)
 - [Node.js RAG PDF Upload: Embeddings, pgvector, Chunking, and Citations](posts/node-js-rag-pdf-upload-embeddings-pgvector-chunking-and-citations.md)
